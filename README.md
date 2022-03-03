@@ -1,13 +1,13 @@
-<h1 align="center">Hi 👋, I'm Gaby</h1>
+<h1 align="center">Hi 👋, I'm Gaby 🌟</h1>
 <h3 align="center">A passionate Cloud Engineer from Mexico</h3>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=gabsgapo" alt="gabsgapo" /></a> </p>
 
-- 🔭 I’m currently working on **Globant**
+- 🔭 I’m currently working on **Globant 🔥**
 
-- 🌱 I’m currently learning **Cloud, Docker, Kubernetes and some other technology stuffs**
+- 🌱 I’m currently learning 👨🏽‍💻 **Cloud, Docker, Kubernetes and improving some other technology skills 🚀**
 
-- ⚡ Fun fact **I love technology, sports and TV series**
+- ⚡ Fun fact **I'm a technology 💻 & sports enthusiastic! And also I love ❤️ TV series 📺**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
